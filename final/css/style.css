@@ -94,15 +94,16 @@ h2 {
 #work {
 	display: block;
 	background-color: #f9f9f9;
-	padding-top: 20 0 20 0;
+	padding: 10 0 50 0;
 	clear: both;
 }
 
 footer {
-	background-color: #f9f9f9;
+	background-color: #f0f0f0;
 	font-size: .5em;
 	clear: both;
 	color: #e892ba;
+	padding: 40px 0 20px 0;
 }
 
 footer a{
